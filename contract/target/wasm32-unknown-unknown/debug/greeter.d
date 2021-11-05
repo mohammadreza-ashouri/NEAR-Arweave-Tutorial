@@ -1,0 +1,1 @@
+/Users/doriankinoocrutcher/Documents/NEAR/arweave/localarweave/arweave_tutorial/contract/target/wasm32-unknown-unknown/debug/greeter.wasm: /Users/doriankinoocrutcher/Documents/NEAR/arweave/localarweave/arweave_tutorial/contract/src/lib.rs
